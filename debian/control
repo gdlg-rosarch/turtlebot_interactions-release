@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-interactive-markers
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-interactive-markers, ros-indigo-roscpp, ros-indigo-visualization-msgs
+Homepage: http://ros.org/wiki/turtlebot_interactive_markers
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-interactive-markers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-interactive-markers, ros-indigo-roscpp, ros-indigo-turtlebot-bringup, ros-indigo-visualization-msgs
+Description: Interactive control for the TurtleBot using RViz and interactive markers
