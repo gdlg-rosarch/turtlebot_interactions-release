@@ -1,0 +1,39 @@
+ros-indigo-turtlebot-dashboard (2.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-dashboard (2.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-dashboard (2.2.2-0trusty) trusty; urgency=high
+
+  * Unchanged release
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 24 Oct 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-dashboard (2.2.0-0trusty) trusty; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Rename launcher includes to xyz.launch.xml.
+  * Changelogs at package level.
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-dashboard (2.1.1-0trusty) trusty; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 22 Jul 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-dashboard (2.1.0-0trusty) trusty; urgency=high
+
+  * Catkinized
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 15 Jul 2013 15:00:00 -0000
+
+
