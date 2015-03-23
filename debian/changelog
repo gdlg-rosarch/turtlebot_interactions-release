@@ -1,0 +1,39 @@
+ros-indigo-turtlebot-interactions (2.3.1-0saucy) saucy; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-interactions (2.3.0-0saucy) saucy; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-interactions (2.2.2-0saucy) saucy; urgency=high
+
+  * Unchanged release
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 24 Oct 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-interactions (2.2.0-0saucy) saucy; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-interactions (2.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 22 Jul 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-interactions (2.1.0-0saucy) saucy; urgency=high
+
+  * Catkinized
+  * Remove turtlebot_diagnostics from metapackage
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 15 Jul 2013 15:00:00 -0000
+
+
