@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot-interactive-markers
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-interactive-markers, ros-kinetic-roscpp, ros-kinetic-visualization-msgs
+Homepage: http://ros.org/wiki/turtlebot_interactive_markers
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot-interactive-markers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-interactive-markers, ros-kinetic-roscpp, ros-kinetic-turtlebot-bringup, ros-kinetic-visualization-msgs
+Description: Interactive control for the TurtleBot using RViz and interactive markers
