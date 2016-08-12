@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot-rviz-launchers
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/turtlebot_rviz_launchers
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot-rviz-launchers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-joint-state-publisher, ros-kinetic-rviz, ros-kinetic-turtlebot-bringup, ros-kinetic-turtlebot-teleop
+Description: Launchers for visualizing TurtleBot
