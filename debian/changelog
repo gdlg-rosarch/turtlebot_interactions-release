@@ -1,0 +1,47 @@
+ros-kinetic-turtlebot-rviz-launchers (2.3.1-0xenial) xenial; urgency=high
+
+  * image_color -> image_rect_color closes #6 <https://github.com/turtlebot/turtlebot_interactions/issues/6>
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Mon, 23 Mar 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.3.0-0xenial) xenial; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Tue, 30 Dec 2014 08:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.2.2-0xenial) xenial; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Fri, 25 Oct 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.2.1-0xenial) xenial; urgency=high
+
+  * Use two separate turtlebot navigation launchers to make things obvious to users.
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Wed, 11 Sep 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.2.0-0xenial) xenial; urgency=high
+
+  * Allow visualizing navigation regardless we use or not application namespaces (with argument use_app_ns).
+  * Fix view model launcher and dependencies.
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Fri, 30 Aug 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.1.1-0xenial) xenial; urgency=high
+
+  * Adapt view_navigation configuration to hydro navi stack
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Tue, 23 Jul 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-rviz-launchers (2.1.0-0xenial) xenial; urgency=high
+
+  * Catkinized
+
+ -- Daniel Stonier <stonier@yujinrobot.com>  Tue, 16 Jul 2013 07:00:00 -0000
+
+
