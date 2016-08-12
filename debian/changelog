@@ -1,0 +1,39 @@
+ros-kinetic-turtlebot-dashboard (2.3.1-0jessie) jessie; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 23 Mar 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-dashboard (2.3.0-0jessie) jessie; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Tue, 30 Dec 2014 08:00:00 -0000
+
+ros-kinetic-turtlebot-dashboard (2.2.2-0jessie) jessie; urgency=high
+
+  * Unchanged release
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Fri, 25 Oct 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-dashboard (2.2.0-0jessie) jessie; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Rename launcher includes to xyz.launch.xml.
+  * Changelogs at package level.
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Fri, 30 Aug 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-dashboard (2.1.1-0jessie) jessie; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Tue, 23 Jul 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-dashboard (2.1.0-0jessie) jessie; urgency=high
+
+  * Catkinized
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Tue, 16 Jul 2013 07:00:00 -0000
+
+
