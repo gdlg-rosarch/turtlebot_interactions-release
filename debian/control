@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot-interactions
+Section: misc
+Priority: extra
+Maintainer: Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/turtlebot_interactions
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot-interactions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-turtlebot-dashboard, ros-kinetic-turtlebot-interactive-markers, ros-kinetic-turtlebot-rviz-launchers
+Description: Catkin meta-package for turtlebot_interactions
